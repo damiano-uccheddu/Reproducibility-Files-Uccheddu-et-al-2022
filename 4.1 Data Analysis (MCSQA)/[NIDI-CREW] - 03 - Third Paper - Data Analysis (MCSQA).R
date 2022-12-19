@@ -1,5 +1,5 @@
 # *-----------------------------------------------------------------------------------------------* 
-# *>> Sequence and cluster analysis performed in R 
+# *>> Sequence and cluster analysis performed in R (Version 4.1.2 - November, 2021)
 # *-----------------------------------------------------------------------------------------------* 
 
 # capture log close 
