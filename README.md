@@ -15,8 +15,8 @@
 # Notes: 
 - The do-file contained in the folder "0. Master do-file" contains the commands to create all the datasets and run the analysis. 
 - The do-file contained in the folder "1. Dataset Creation" contains the commands to create the datasets
-- The do-file contained in the folder "2. Data Cleaning (General)" reshapes the datasets and merge SHARE wave 3, SHARE wave 7, and the SHARE job episodes panel dataset. 
+- The do-file contained in the folder "2. Data Cleaning (General)" reshapes the datasets and merges SHARE wave 3, SHARE wave 7, and the SHARE job episodes panel dataset. 
 - The do-file contained in the folder "3. Data Cleaning (MCSQA)" prepares the datasets for the sequence analysis to be done with R
 - The .R file contained in the folder "4.1 Data Analysis (MCSQA)" performs the sequence and cluster analysis in R
-- The do-file contained in the folder "4.2 Data Analysis (Chronograms)" produce the Figures 1 and 2. 
-- The do-file contained in the folder "5. Data Analysis (Main)" produces the remaining tables and figure (from descriptive statistics and regression analyses)
+- The do-file contained in the folder "4.2 Data Analysis (Chronograms)" produces Figures 1 and 2. 
+- The do-file contained in the folder "5. Data Analysis (Main)" produces the remaining tables and figures (from descriptive statistics and regression analyses)
