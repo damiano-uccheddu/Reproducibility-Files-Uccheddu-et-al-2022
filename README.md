@@ -1,5 +1,7 @@
 # Reproducibility Files
 
+# [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7462105.svg)](https://doi.org/10.5281/zenodo.7462105)
+
 ### Uccheddu, Damiano, Tom Emery, Anne H. Gauthier, and Nardi Steverink. ‘Gendered Work-Family Life Courses and Late-Life Physical Functioning: A Comparative Analysis from 28 European Countries’. *Advances in Life Course Research* 53 (2022): 100495. https://doi.org/10.1016/j.alcr.2022.100495.
 
 
